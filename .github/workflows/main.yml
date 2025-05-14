@@ -18,7 +18,8 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name kimkosung
-          git config user.email kimkosung@github.com
+          git config user.email iamgosung@gmail.com
+          git remote set-url origin https://github.com/kimkosung/kimkosung.git
           git add -A .
           git commit -m "generated"
           git push
