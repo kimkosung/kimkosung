@@ -8,7 +8,7 @@
   <a href="mailto:iamgosung@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-iamgosung@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ko-kim-5392893b4">
+  <a href="https://www.linkedin.com/in/ks-kim-5392893b4">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://velog.io/@kando">
